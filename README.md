@@ -1,0 +1,2 @@
+# CoreDataDemo_Swift5
+CoreDataDemo_Swift5_Xcode_10_2
